@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_Web-Lh_Pets_Alunos", "Projeto_Web-Lh_Pets_Alunos.csproj", "{748BD606-8E29-12CD-61B7-95FFA62D016F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748BD606-8E29-12CD-61B7-95FFA62D016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748BD606-8E29-12CD-61B7-95FFA62D016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748BD606-8E29-12CD-61B7-95FFA62D016F}.Default|Any CPU.ActiveCfg = Release|Any CPU
+		{748BD606-8E29-12CD-61B7-95FFA62D016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748BD606-8E29-12CD-61B7-95FFA62D016F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8CFE27-36F9-4CE7-AEB7-3E43A509F1BC}.Debug|Any CPU.ActiveCfg = Default
+		{EC8CFE27-36F9-4CE7-AEB7-3E43A509F1BC}.Default|Any CPU.ActiveCfg = Default
+		{EC8CFE27-36F9-4CE7-AEB7-3E43A509F1BC}.Release|Any CPU.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C9E5BC-4BED-4D14-BAC8-F4DF25FE90E3}
+	EndGlobalSection
+EndGlobal

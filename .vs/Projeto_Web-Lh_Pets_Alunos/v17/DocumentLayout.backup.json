@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renat\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\vendas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vendas.sql - n\u00E3o conectado",
+              "DocumentMoniker": "C:\\Users\\renat\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\vendas.sql",
+              "RelativeDocumentMoniker": "vendas.sql",
+              "ToolTip": "C:\\Users\\renat\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\vendas.sql - n\u00E3o conectado",
+              "RelativeToolTip": "vendas.sql - n\u00E3o conectado",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-25T17:24:24.227Z",
+              "EditorCaption": " - n\u00E3o conectado"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
