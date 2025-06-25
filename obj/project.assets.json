@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+      "projectUniqueName": "c:\\Users\\renat\\Downloads\\tomara\\Projeto_Web-Lh_Pets_Alunos.csproj",
       "projectName": "Projeto_Web-Lh_Pets_Alunos",
-      "projectPath": "c:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+      "projectPath": "c:\\Users\\renat\\Downloads\\tomara\\Projeto_Web-Lh_Pets_Alunos.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\renat\\Downloads\\Alunos\\obj\\",
+      "outputPath": "c:\\Users\\renat\\Downloads\\tomara\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"

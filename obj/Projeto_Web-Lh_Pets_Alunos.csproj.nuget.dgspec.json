@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj": {}
+    "C:\\Users\\renat\\Downloads\\tomara\\Projeto_Web-Lh_Pets_Alunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj": {
+    "C:\\Users\\renat\\Downloads\\tomara\\Projeto_Web-Lh_Pets_Alunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+        "projectUniqueName": "C:\\Users\\renat\\Downloads\\tomara\\Projeto_Web-Lh_Pets_Alunos.csproj",
         "projectName": "Projeto_Web-Lh_Pets_Alunos",
-        "projectPath": "C:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+        "projectPath": "C:\\Users\\renat\\Downloads\\tomara\\Projeto_Web-Lh_Pets_Alunos.csproj",
         "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renat\\Downloads\\Alunos\\obj\\",
+        "outputPath": "C:\\Users\\renat\\Downloads\\tomara\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"
