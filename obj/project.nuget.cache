@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FxdOXHVbV0=",
+  "dgSpecHash": "4RL9b3CEXns=",
   "success": true,
-  "projectFilePath": "C:\\Users\\renat\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+  "projectFilePath": "C:\\Users\\renat\\Downloads\\Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renat\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
